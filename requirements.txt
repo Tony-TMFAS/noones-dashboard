@@ -1,0 +1,7 @@
+rstreamlit
+pandas
+matplotlib
+seaborn
+numpy
+joblib
+pillow  # For PIL.Image
